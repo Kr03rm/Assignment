@@ -68,6 +68,6 @@ The project is deployed via [GitHub Pages / Netlify / Vercel].
 
 ### To Run Locally:
 ```bash
-git clone https://github.com/Kr03rm/bmw-site.git
+git clone file:///C:/Users/roman/OneDrive/GitHub/index.html
 cd bmw-site
 open index.html in your browser
